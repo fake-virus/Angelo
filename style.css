@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headers{
+    
+    font-weight: bold;
+    font-size: 90px;
+    background-color: #408cff;
+    color: white;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.info{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    
+   
+}
+a{
+    margin: 9px;
+    font-size: 40px;
+}
+
